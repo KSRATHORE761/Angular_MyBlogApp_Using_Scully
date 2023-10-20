@@ -1,0 +1,11 @@
+identifier: l9nbw7teh1a3ga6e
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: C:\Kuldeep\Angular\Angular-Projects\my-blog
+distFolder: dist/my-blog
+outDir: C:\Kuldeep\Angular\Angular-Projects\my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
